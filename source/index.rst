@@ -7,15 +7,15 @@
    :maxdepth:2
    :caption: MentorPi
 
-   docs/1.Getting_Ready.md
+   docs/1.getting_ready.md
    docs/2.general_basic_courses.md
    docs/3.set_development_environment.md
-   docs/4.Motion_Control_Lesson.md
-   docs/5.Lidar_lesson.md
-   docs/6.Depth_Camera_Basic_Lesson.md
-   docs/7.Mapping_lesson.md
-   docs/8.Navigation_lesson.md
-   docs/9.ROS+OpenCV_lesson.md
+   docs/4.motion_control_lesson.md
+   docs/5.lidar_lesson.md
+   docs/6.depth_camera_basic_lesson.md
+   docs/7.mapping_lesson.md
+   docs/8.navigation_lesson.md
+   docs/9.ros+opencv_lesson.md
    docs/10.mediapipe_human_robot_interaction.md
-   docs/11.Machine Learning.md
-   docs/12.Autonomous Driving Lesson.md
+   docs/11.machine_learning.md
+   docs/12.autonomous_driving_lesson.md
