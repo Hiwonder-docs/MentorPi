@@ -3,6 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+============
+MentorPi
+============
+
 .. toctree::
    :maxdepth:2
    :caption: MentorPi
@@ -19,3 +23,4 @@
    docs/10.mediapipe_human_robot_interaction.md
    docs/11.machine_learning.md
    docs/12.autonomous_driving_lesson.md
+   docs/resources_download.md
