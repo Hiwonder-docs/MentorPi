@@ -24,3 +24,4 @@ MentorPi
    docs/11.machine_learning.md
    docs/12.autonomous_driving_lesson.md
    docs/resources_download.md
+   Download <https://drive.google.com/drive/folders/1Ox5xN5zpxXqDK-9ruDwwgcQgePXvMvHr?usp=sharing> 
