@@ -8,7 +8,7 @@ MentorPi
 ============
 
 .. toctree::
-   :maxdepth:2
+   :maxdepth: 2
    :caption: MentorPi
 
    docs/1.getting_ready.md
