@@ -23,5 +23,8 @@ MentorPi
    docs/10.mediapipe_human_robot_interaction.md
    docs/11.machine_learning.md
    docs/12.autonomous_driving_lesson.md
+   docs/13.MasterSlaveAndGroupControl.md
+   docs/14.Robot Network Configuration.md
+   docs/15.Large_AI_Model_Course.md
    docs/resources_download.md
-   Download <https://drive.google.com/drive/folders/1Ox5xN5zpxXqDK-9ruDwwgcQgePXvMvHr?usp=sharing> 
+   Download <https://drive.google.com/drive/folders/1P00n6IemouAnga8EjpO7suF3Mou8zv4K?usp=sharing>
