@@ -4,12 +4,12 @@
    contain the root `toctree` directive.
 
 ============
-MentorPi
+MentorPi 2024 Version
 ============
 
 .. toctree::
    :maxdepth:2
-   :caption: MentorPi
+   :caption: MentorPi 2024 Version
 
    docs/1.getting_ready.md
    docs/2.general_basic_courses.md

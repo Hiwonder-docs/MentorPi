@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'MentorPi'
+project = 'MentorPi 2024 Version'
 copyright = '2025, Hiwonder'
 author = 'Hiwonder'
 release = 'v1.0'
@@ -35,4 +35,6 @@ html_static_path = ['_static']
 html_css_files = ['style.css']
 html_js_files = ['custom.js']
 html_theme_options = {
-    'ver
+    'version_selector': True,
+    'style_nav_header_background': '#f98800',
+}
