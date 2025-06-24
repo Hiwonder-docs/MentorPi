@@ -8,7 +8,7 @@ MentorPi 2024 Version
 ============
 
 .. toctree::
-   :maxdepth:2
+   :maxdepth: 2
    :caption: MentorPi 2024 Version
 
    docs/1.getting_ready.md
