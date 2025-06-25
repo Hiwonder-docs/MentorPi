@@ -13,8 +13,8 @@ release = 'v1.0'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
-
-extensions = ['sphinx_markdown_tables','myst_parser','sphinx_copybutton','sphinx_multiversion']
+#,'sphinx_multiversion'
+extensions = ['sphinx_markdown_tables','myst_parser','sphinx_copybutton']
 
 templates_path = ['_templates']
 exclude_patterns = []
@@ -34,7 +34,7 @@ html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 html_css_files = ['style.css']
 html_js_files = ['custom.js']
+#    'version_selector': True,
 html_theme_options = {
-    'version_selector': True,
     'style_nav_header_background': '#f98800',
 }
