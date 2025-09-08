@@ -12,7 +12,6 @@ MentorPi
    :caption: MentorPi
 
    docs/1.getting_ready.md
-   docs/2.general_basic_courses.md
    docs/3.set_development_environment.md
    docs/4.motion_control_lesson.md
    docs/5.lidar_lesson.md
