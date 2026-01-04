@@ -8,3 +8,4 @@
 - Virtual Machine Installation Pack：[Virtual Machine Installation Pack](https://drive.google.com/drive/folders/13zM251tk7UkDw_XXBoarpLjSGOrXAfr3?usp=sharing)
 - APP Installation Pack (Android)：[WonderPi](https://play.google.com/store/apps/details?id=com.Wonder.Pi)
 - APP Installation Pack (iOS)：[WonderPi](https://apps.apple.com/cn/app/wonderpi/id1477946178)
+- Firmware Flashing Tool.rar：[Firmware Flashing Tool.rar](https://drive.google.com/drive/folders/132zZtcvXVp55YJEhTdqgVLAm4w7tebHC)
