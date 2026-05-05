@@ -9,7 +9,7 @@ MentorPi
 
 .. note::
 
-   Please select the corresponding version of the document.
+   Select the course version for the purchased kit. Choose 2024-Versions for the MentorPi A1 Starter Kit and Standard Kit, and Latest for the MentorPi A1 Advanced Kit, Ultimate Kit, and MentorPi M1.
 
 .. toctree::
    :maxdepth: 2
