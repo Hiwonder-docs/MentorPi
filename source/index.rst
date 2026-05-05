@@ -7,6 +7,10 @@
 MentorPi
 ============
 
+.. note::
+
+   Please select the corresponding version of the document.
+
 .. toctree::
    :maxdepth: 2
    :caption: MentorPi
